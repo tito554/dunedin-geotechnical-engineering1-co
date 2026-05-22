@@ -1,0 +1,51 @@
+# Geotechnical Engineering1 — Dunedin
+
+> Geotechnical engineering services in Dunedin, New Zealand.
+
+## Services
+- [Anchors](https://dunedin.geotechnical-engineering1.co/anchors/)
+- [Atterberg Limits](https://dunedin.geotechnical-engineering1.co/atterberg-limits/)
+- [Cbr Road](https://dunedin.geotechnical-engineering1.co/cbr-road/)
+- [Cpt Test](https://dunedin.geotechnical-engineering1.co/cpt-test/)
+- [Deep Excavations](https://dunedin.geotechnical-engineering1.co/deep-excavations/)
+- [Excavation Monitoring](https://dunedin.geotechnical-engineering1.co/excavation-monitoring/)
+- [Excavations](https://dunedin.geotechnical-engineering1.co/excavations/)
+- [Flexible Pavement](https://dunedin.geotechnical-engineering1.co/flexible-pavement/)
+- [Footings](https://dunedin.geotechnical-engineering1.co/footings/)
+- [Foundations](https://dunedin.geotechnical-engineering1.co/foundations/)
+- [Grain Size](https://dunedin.geotechnical-engineering1.co/grain-size/)
+- [Ground Improvement](https://dunedin.geotechnical-engineering1.co/ground-improvement/)
+- [Grouting](https://dunedin.geotechnical-engineering1.co/grouting/)
+- [In Situ Permeability](https://dunedin.geotechnical-engineering1.co/in-situ-permeability/)
+- [Investigation](https://dunedin.geotechnical-engineering1.co/investigation/)
+- [Lab In Situ](https://dunedin.geotechnical-engineering1.co/lab-in-situ/)
+- [Laboratory](https://dunedin.geotechnical-engineering1.co/laboratory/)
+- [Liquefaction](https://dunedin.geotechnical-engineering1.co/liquefaction/)
+- [Masw](https://dunedin.geotechnical-engineering1.co/masw/)
+- [Mat Foundations](https://dunedin.geotechnical-engineering1.co/mat-foundations/)
+- [Piles](https://dunedin.geotechnical-engineering1.co/piles/)
+- [Proctor Tests](https://dunedin.geotechnical-engineering1.co/proctor-tests/)
+- [Resistivity](https://dunedin.geotechnical-engineering1.co/resistivity/)
+- [Retaining Walls](https://dunedin.geotechnical-engineering1.co/retaining-walls/)
+- [Rigid Pavement](https://dunedin.geotechnical-engineering1.co/rigid-pavement/)
+- [Road Geotechnics](https://dunedin.geotechnical-engineering1.co/road-geotechnics/)
+- [Sand Cone Density](https://dunedin.geotechnical-engineering1.co/sand-cone-density/)
+- [Seismic](https://dunedin.geotechnical-engineering1.co/seismic/)
+- [Seismic Isolation](https://dunedin.geotechnical-engineering1.co/seismic-isolation/)
+- [Seismic Microzonation](https://dunedin.geotechnical-engineering1.co/seismic-microzonation/)
+- [Seismic Refraction](https://dunedin.geotechnical-engineering1.co/seismic-refraction/)
+- [Slope Stability](https://dunedin.geotechnical-engineering1.co/slope-stability/)
+- [Slopes](https://dunedin.geotechnical-engineering1.co/slopes/)
+- [Soft Ground Tunnels](https://dunedin.geotechnical-engineering1.co/soft-ground-tunnels/)
+- [Spt Drilling](https://dunedin.geotechnical-engineering1.co/spt-drilling/)
+- [Stone Columns](https://dunedin.geotechnical-engineering1.co/stone-columns/)
+- [Test Pits](https://dunedin.geotechnical-engineering1.co/test-pits/)
+- [Triaxial](https://dunedin.geotechnical-engineering1.co/triaxial/)
+- [Vibrocompaction](https://dunedin.geotechnical-engineering1.co/vibrocompaction/)
+
+## Contact
+- Website: https://dunedin.geotechnical-engineering1.co/
+
+## About
+This site provides geotechnical engineering services in Dunedin, New Zealand.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
